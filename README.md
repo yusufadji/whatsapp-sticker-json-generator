@@ -50,8 +50,8 @@ Currently, the program consists of two scripts:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yusufadji/whatsapp-stickers-json-generator.git
-   cd whatsapp-stickers-json-generator
+   git clone https://github.com/yusufadji/whatsapp-sticker-json-generator.git
+   cd whatsapp-sticker-json-generator
    ```
 2. Place your sticker files in the assets folder. Ensure each folder inside assets represents a different sticker pack.
 
@@ -59,8 +59,8 @@ Currently, the program consists of two scripts:
 
 #### Linux
 
-1. Open generate-content-json.sh and modify the variables under the comment # [MODIFY THIS] according to your needs.
-2. Run the script:
+1. Open generate-content-json.sh with your prefered text editor and modify the variables under the comment # [MODIFY THIS] according to your needs.
+2. Run the script with this command on your terminal:
 
 ```
 ./generate-content-json.sh
@@ -68,7 +68,7 @@ Currently, the program consists of two scripts:
 
 #### Windows
 
-1. Open generate-content-json.bat and modify the variables under the comment REM [MODIFY THIS] according to your needs.
+1. Open generate-content-json.bat with your prefered text editor and modify the variables under the comment REM [MODIFY THIS] according to your needs.
 2. Double-click on generate-content-json.bat after making the changes.
 
 ### Example Folder Structure
